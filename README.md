@@ -27,5 +27,5 @@ _Настроение_:
 _Удивление_:
 ![](https://image.ibb.co/h7nzex/2.jpg)
 
-_Настроение_:
+_Роскошь_:
 ![](https://image.ibb.co/ikct6c/3.jpg)
