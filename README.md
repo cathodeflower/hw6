@@ -28,4 +28,4 @@ _Удивление_:
 ![](https://image.ibb.co/h7nzex/2.jpg)
 
 _Настроение_:
-![](https://image.ibb.co/kP1mRc/3.jpg)
+![](https://image.ibb.co/ikct6c/3.jpg)
