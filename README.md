@@ -18,3 +18,14 @@
 ![](https://image.ibb.co/eEdVKx/2.jpg)
 
 ![](https://image.ibb.co/i1tmsH/3.jpg)
+
+г) Concordance Plot для этих слов.
+
+_Настроение_:
+![](https://image.ibb.co/jj9eex/1.jpg)
+
+_Удивление_:
+![](https://image.ibb.co/h7nzex/2.jpg)
+
+_Настроение_:
+![](https://image.ibb.co/kP1mRc/3.jpg)
